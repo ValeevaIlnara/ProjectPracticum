@@ -1,2 +1,2 @@
 # ProjectPracticum
-Repository for student work on the discipline "Project practicum"
+go to the Wiki tab
